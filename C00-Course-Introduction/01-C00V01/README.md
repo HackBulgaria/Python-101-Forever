@@ -1,4 +1,4 @@
-# C00V01 - What is Python 101 Forever ?
+# C00V01 - What is Python 101 Forever?
 
 *Video link coming soon*
 
