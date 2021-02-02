@@ -1,8 +1,10 @@
 # 🚀 Python 101 Forever 🚀
 
-Official Python 101 Forever GitHub repository.
+Official [Python 101 Forever](https://hackbulgaria.com/python-101-forever) GitHub repository.
 
 [START HERE - CHECK README](C00-Course-Introduction/)
+
+[SUBSCRIBE FOR UPDATES HERE](https://landing.mailerlite.com/webforms/landing/p2u7b6)
 
 ## Sponsors
 
