@@ -1,5 +1,5 @@
-# C00V02 - How is the course organized?
+# C00V03 - Who is behind the course?
 
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/nLdDtkYX8cw) | [Click here](https://docs.google.com/presentation/d/1cp32LAzCgjbGB4fe6RsLSErlBm_D-i-urKjtZ7LapTM/edit?usp=sharing) | [Click here](../03-C00V03) |
+| [Click here](https://youtu.be/AukAFZqz2Kk) | [Click here](https://docs.google.com/presentation/d/12_yKeCXd0W-ulSUWISI1yO7clOImHjBgNppVVBC7jtY/edit?usp=sharing) | *Coming soon* |
