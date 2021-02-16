@@ -18,7 +18,7 @@ Contact us at <team@hackbulgaria.com> for sponsorship opportunities.
 | Concept                               | Link                                   |
 |---------------------------------------|----------------------------------------|
 | 00 - Course Introduction              | [Click here](C00-Course-Introduction/) |
-| 01 - Python Basics                    | *Coming soon*                          |
+| 01 - Python Basics                    | [Click here](C01-Python-Basics/)       |
 | 02 - Linux                            | *Coming soon*                          |
 | 03 - Unit testing                     | *Coming soon*                          |
 | 04 - Algorithms and Data structures   | *Coming soon*                          |
