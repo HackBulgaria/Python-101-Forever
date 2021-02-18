@@ -1,7 +1,7 @@
-# C01V01 - Basic Language Constructs
+# C01V02 - REPL
 
-We recommend checking this out - <https://wiki.python.org/moin/BeginnersGuide>
+<https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop>
 
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/NCQIXCstvqI) | [Click here](https://docs.google.com/presentation/d/1ue99wJqCWw0enGEw7k6a4sydiwKDbLXpbwN8_8Z4wCg/edit?usp=sharing) | [C01V02 - REPL](../02-C01V02/) |
+| [Click here](https://youtu.be/Hz5Dkb8F1Rc) | [Click here](https://docs.google.com/presentation/d/1kV1F_bkpIo8vTkn6qR1LSQGvSvNID-dctONw0pWeo-I/edit?usp=sharing) | *Coming soon* |
