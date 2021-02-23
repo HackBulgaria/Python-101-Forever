@@ -6,5 +6,6 @@ Follow this order:
 |-------|------------------------------------|--------------------------|
 | 1     | C01V01 - Basic Language Constructs | [Click here](01-C01V01/) |
 | 2     | C01V02 - REPL                      | [Click here](02-C01V02/) |
-| 3     | C01V03 - If statements             | *Coming soon*            |
-| 4     | *More coming soon*                 | *Coming soon*            |
+| 3     | C01V03 - If statements             | [Click here](03-C01V03/) |
+| 4     | C01V04 - Lists                     | *Coming soon*            |
+| 5     | C01V05 - Tuples                    | *Coming soon*            |
