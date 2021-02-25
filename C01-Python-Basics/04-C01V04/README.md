@@ -1,8 +1,7 @@
-# C01V03 - If statements
+# C01V04 - Lists
 
 Check the [examples](./examples.py).
 
-
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/3w7r33eagKc) | [Click here](https://docs.google.com/presentation/d/17wObxImPrXhWvaVmp-FeFDXBAylpCuhiJErpVB-y7Io/edit?usp=sharing) | [C01V04 - Lists](../04-C01V04/) |
+| [Click here](https://youtu.be/qpO5LuBFK8U) | [Click here](https://docs.google.com/presentation/d/1JogZsMCza1-9QpNasbQ3gH3ZWkq85KPShDOKRJWlQiM/edit?usp=sharing) | *Coming soon* |
