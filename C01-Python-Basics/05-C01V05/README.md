@@ -1,7 +1,7 @@
-# C01V04 - Lists
+# C01V05 - Tuples
 
 Check the [examples](./examples.py).
 
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/qpO5LuBFK8U) | [Click here](https://docs.google.com/presentation/d/1JogZsMCza1-9QpNasbQ3gH3ZWkq85KPShDOKRJWlQiM/edit?usp=sharing) | [C01V05 - Tuples](../05-C01V05/) |
+| [Click here](https://youtu.be/LQ13LFGJ7mY) | [Click here](https://docs.google.com/presentation/d/1d_2AXV3uRTtMwmdUZfH2hLVfj1ve93DZk2hS8LU8PJA/edit?usp=sharing) | *Coming soon* |
