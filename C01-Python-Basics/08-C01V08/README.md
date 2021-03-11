@@ -1,5 +1,8 @@
-# C01V07 - Sets
+# C01V08 - Common patterns
+
+Check the [examples](./examples.py).
 
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/Y_tbtTBwUUQ) | [Click here](https://docs.google.com/presentation/d/1n-m4fEzR6htP12oE9t7Vy8GYRJ4xdNeSjaSZxEpuscY/edit?usp=sharing) | [C01V08 - Common Patterns](../08-C01V08/) |
+| [Click here](https://youtu.be/g3_weEKkdh8) | [Click here](https://docs.google.com/presentation/d/1mZm6uwqVdaMldnKtveOownR1w_JnUKq3jsy86MJISdo/edit?usp=sharing) | *Coming soon* |
+
