@@ -31,3 +31,13 @@ Contact us at <team@hackbulgaria.com> for sponsorship opportunities.
 | 11 - Keeping it Practical, part 2     | *Coming soon*                          |
 | 12 - Git                              | *Coming soon*                          |
 | *There's more to come*                | *Coming soon*                          |
+
+
+## Glossary
+
+If you wonder about those `C01V01`, `C01P01`, `C01P01S01` things, here is the explanation:
+
+1. Those are **unique identifiers** for the different resources in the course.
+1. `C01V01` means **Concept 01, Video 01**. This is a video, explaining something. Video is located in YouTube and linked here.
+1. `C01P01` means **Concept 01, Problem 01**. This is a problem that needs solving. Problem is located here in markdown format.
+1. `C01P01S01` means **Concept 01, Problem 01, Solution 01**. This is a video, showing a solution to the specific problem. Video is located in YouTube and linked here. Solution code is located here.
