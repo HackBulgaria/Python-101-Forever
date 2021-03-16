@@ -12,4 +12,4 @@ Follow this order:
 | 6     | C01V06 - Dictionaries              | [Click here](06-C01V06/) |
 | 7     | C01V07 - Sets                      | [Click here](07-C01V07/) |
 | 8     | C01V08 - Common patterns           | [Click here](08-C01V08/) |
-| 9     | C01V09 - Functions                 | *Coming soon*            |
+| 9     | C01V09 - Functions                 | [Click here](09-C01V09/) |
