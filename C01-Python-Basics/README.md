@@ -15,3 +15,6 @@ Follow this order:
 | 9     | C01V09 - Functions                           | [Click here](09-C01V09/) |
 | 10    | C01V10 - Pass by assignment                  | [Click here](10-C01V10/) |
 | 11    | C01V11 - How to write the actual Python code | [Click here](11-C01V11/) |
+| 12    | C01P01 - IBAN Formatter                      | [Click here](12-C01P01/) |
+| 13    | C01P02 - Sum of digits                       | [Click here](13-C01P02/) |
+| 14    | C01P03 - Factorial digits                    | [Click here](14-C01P03/) |

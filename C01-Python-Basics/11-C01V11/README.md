@@ -15,5 +15,5 @@ Sublime settings:
 
 | Video                                      | Slides                                                                                                             | Next          |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------|
-| [Click here](https://youtu.be/33Kc0-EXjOs) | No slides this time. | *Coming soon* |
+| [Click here](https://youtu.be/33Kc0-EXjOs) | No slides this time. | [C01P01 - IBAN formatter](../12-C01P01/)|
 
