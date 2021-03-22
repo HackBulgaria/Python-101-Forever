@@ -2,6 +2,7 @@
 
 1. <https://docs.python.org/3/faq/programming.html#how-do-i-write-a-function-with-output-parameters-call-by-reference>
 1. <https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747>
+1. This video has a nice visual explanation - <https://www.youtube.com/watch?v=AaIdperUu-A>
 1. Check the [examples](./examples.py).
 
 | Video                                      | Slides                                                                                                             | Next          |
