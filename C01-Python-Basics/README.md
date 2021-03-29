@@ -18,3 +18,6 @@ Follow this order:
 | 12    | C01P01 - IBAN formatter                      | [Click here](12-C01P01/) |
 | 13    | C01P02 - Sum of digits                       | [Click here](13-C01P02/) |
 | 14    | C01P03 - Factorial digits                    | [Click here](14-C01P03/) |
+| 15    | C01P04 - Char histogram                      | [Click here](15-C01P04/) |
+| 16    | C01P05 - Sum matrix                          | [Click here](16-C01P05/) |
+| 17    | C01P06 - NaN expand                          | [Click here](17-C01P06/) |
