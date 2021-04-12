@@ -21,3 +21,9 @@ Follow this order:
 | 15    | C01P04 - Char histogram                      | [Click here](15-C01P04/) |
 | 16    | C01P05 - Sum matrix                          | [Click here](16-C01P05/) |
 | 17    | C01P06 - NaN expand                          | [Click here](17-C01P06/) |
+| 18    | C01P07 - Increasing and decreasing           | [Click here](18-C01P07/) |
+| 19    | C01P08 - Group                               | [Click here](19-C01P08/) |
+| 20    | C01P09 - Balanced numbers                    | [Click here](20-C01P09/) |
+| 21    | C01P10 - Palindromes count                   | [Click here](21-C01P10/) |
+| 22    | C01P11 - Anagrams                            | [Click here](22-C01P11/) |
+| 23    | C01P12 - Credit card validation              | [Click here](23-C01P12/) |
