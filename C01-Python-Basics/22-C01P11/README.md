@@ -26,5 +26,5 @@ def anagrams(word1, word2):
 anagrams("listen", "silent") is True
 anagrams("LISTEN", "silent") is True
 anagrams("python", "ruby") is False
-anagrams("New York Times", "monkeys writting") is True
+anagrams("New York Times", "monkeys writе") is True
 ```
