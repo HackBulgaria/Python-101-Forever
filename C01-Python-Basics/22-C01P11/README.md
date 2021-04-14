@@ -27,4 +27,5 @@ anagrams("listen", "silent") is True
 anagrams("LISTEN", "silent") is True
 anagrams("python", "ruby") is False
 anagrams("New York Times", "monkeys write") is True
+anagrams("snake", "sssnakee") is False
 ```
