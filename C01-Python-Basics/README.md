@@ -27,3 +27,6 @@ Follow this order:
 | 21    | C01P10 - Palindromes count                   | [Click here](21-C01P10/) |
 | 22    | C01P11 - Anagrams                            | [Click here](22-C01P11/) |
 | 23    | C01P12 - Credit card validation              | [Click here](23-C01P12/) |
+| 24    | C01P13 - Integer prime factorization         | [Click here](24-C01P13/) |
+| 25    | C01P14 - Goldback conjecture                 | [Click here](25-C01P14/) |
+| 26    | C01P15 - Gas stations                        | [Click here](26-C01P15/) |
