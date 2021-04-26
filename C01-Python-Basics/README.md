@@ -30,3 +30,6 @@ Follow this order:
 | 24    | C01P13 - Integer prime factorization         | [Click here](24-C01P13/) |
 | 25    | C01P14 - Goldback conjecture                 | [Click here](25-C01P14/) |
 | 26    | C01P15 - Gas stations                        | [Click here](26-C01P15/) |
+| 27    | C01P16 - Nokia keypad                        | [Click here](27-C01P16/) |
+| 28    | C01P17 - Word counter                        | [Click here](28-C01P17/) |
+| 29    | C01P18 - Matrix bombing                      | [Click here](29-C01P18/) |
