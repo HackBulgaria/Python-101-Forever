@@ -2,7 +2,7 @@
 
 A long time ago, before the smartphones, when you had to write some messages, the keypads looked like that:
 
-![https://user-images.githubusercontent.com/387867/116038228-d92c3380-a671-11eb-8e31-ff902ada6771.jpg](nokia.jpg)
+![Nokia Keypad](https://user-images.githubusercontent.com/387867/116038228-d92c3380-a671-11eb-8e31-ff902ada6771.jpg)
 
 For example, on such keypad, if you want to write **Ruby**, you had to press the following sequence of numbers:
 
