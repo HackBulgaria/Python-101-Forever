@@ -33,3 +33,4 @@ Follow this order:
 | 27    | C01P16 - Nokia keypad                        | [Click here](27-C01P16/) |
 | 28    | C01P17 - Word counter                        | [Click here](28-C01P17/) |
 | 29    | C01P18 - Matrix bombing                      | [Click here](29-C01P18/) |
+| 30    | C01P19 - Stranger forms                      | [Click here](30-C01P19/) |
