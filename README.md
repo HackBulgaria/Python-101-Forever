@@ -15,22 +15,22 @@ Contact us at <team@hackbulgaria.com> for sponsorship opportunities.
 
 ## Concepts
 
-| Concept                               | Link                                   |
-|---------------------------------------|----------------------------------------|
-| 00 - Course Introduction              | [Click here](C00-Course-Introduction/) |
-| 01 - Python Basics                    | [Click here](C01-Python-Basics/)       |
-| 02 - Linux                            | *Coming soon*                          |
-| 03 - Unit testing                     | *Coming soon*                          |
-| 04 - Algorithms and Data structures   | *Coming soon*                          |
-| 05 - Modules, namespaces & interfaces | *Coming soon*                          |
-| 06 - Expanding in Python, part 1      | *Coming soon*                          |
-| 07 - Keeping it practical, part 1     | *Coming soon*                          |
-| 08 - Introduction to Databases / SQL  | *Coming soon*                          |
-| 09 - Python & SQL                     | *Coming soon*                          |
-| 10 - Expanding in Python, part 2      | *Coming soon*                          |
-| 11 - Keeping it Practical, part 2     | *Coming soon*                          |
-| 12 - Git                              | *Coming soon*                          |
-| *There's more to come*                | *Coming soon*                          |
+| Concept                               | Link                                     |
+|---------------------------------------|------------------------------------------|
+| 00 - Course Introduction              | [Click here](C00-Course-Introduction/)   |
+| 01 - Python Basics                    | [Click here](C01-Python-Basics/)         |
+| 02 - Linux & Python Setup             | [Click here](C02-Linux-and-Python-Setup/)|
+| 03 - Unit testing                     | *Coming soon*                            |
+| 04 - Algorithms and Data structures   | *Coming soon*                            |
+| 05 - Modules, namespaces & interfaces | *Coming soon*                            |
+| 06 - Expanding in Python, part 1      | *Coming soon*                            |
+| 07 - Keeping it practical, part 1     | *Coming soon*                            |
+| 08 - Introduction to Databases / SQL  | *Coming soon*                            |
+| 09 - Python & SQL                     | *Coming soon*                            |
+| 10 - Expanding in Python, part 2      | *Coming soon*                            |
+| 11 - Keeping it Practical, part 2     | *Coming soon*                            |
+| 12 - Git                              | *Coming soon*                            |
+| *There's more to come*                | *Coming soon*                            |
 
 
 ## Glossary
