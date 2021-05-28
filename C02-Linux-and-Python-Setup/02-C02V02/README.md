@@ -5,7 +5,7 @@
 * [Video](https://youtu.be/hl-IZ79d3U8)
 * [Slides](https://docs.google.com/presentation/d/1Vyfz7eHe32DOd3dAdF0lvlb4sRXWcEU7vtPWkq72tBg/edit?usp=sharing)
 
-## Additional materials:
+## Additional materials
 
 1. <https://en.wikipedia.org/wiki/Linux_distribution>
 1. <https://en.wikipedia.org/wiki/Ubuntu>
