@@ -5,6 +5,11 @@
 * [Video](https://youtu.be/cW2yiPirm7k)
 * [Slides](https://docs.google.com/presentation/d/16WI4srns-OKK1zffAX5FYqo_EqrMzDh2HqfilOFZ140/edit?usp=sharing)
 
+## Code examples
+
+* [example.py](example.py)
+* [ls.py](ls.py)
+
 ## Additional materials
 
 * <https://en.wikipedia.org/wiki/Bash_(Unix_shell)>
