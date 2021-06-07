@@ -10,8 +10,11 @@ Follow this order:
 | 3     | C02V03 - File system                                    | [Click here](03-C02V03/) |
 | 4     | C02V04 - File system: Basic commands                    | [Click here](04-C02V04/) |
 | 5     | C02P01 - Reduce file path                               | [Click here](05-C02P01/) |
-| ?     | C02V?? - Basic terminal commands: Part 1                | *Coming soon*            |
-| ?     | C02V?? - Basic terminal commands: Part 2                | *Coming soon*            |
+| 6     | C02V05 - Terminal commands: Part 1                      | [Click here](06-C02V05/) |
+| 7     | C02V06 - Terminal commands: Part 2                      | [Click here](07-C02V06/) |
+| ?     | C02V?? - Terminal commands: Part 3                      | *Coming soon*            |
+| ?     | C02V?? - Terminal commands: Part 4                      | *Coming soon*            |
+| ?     | C02V?? - Terminal commands: Part 5                      | *Coming soon*            |
 | ?     | C02V?? - Python virtual environments                    | *Coming soon*            |
 | ?     | C02V?? - Managing Python versions with pyenv            | *Coming soon*            |
 | ?     | C02V?? - Creating virtual environments for your projects| *Coming soon*            |
