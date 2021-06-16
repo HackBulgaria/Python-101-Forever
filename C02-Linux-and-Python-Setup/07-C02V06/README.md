@@ -1,5 +1,7 @@
 # C02V06 - Terminal commands: Part 2
 
+We talk about environment variables.
+
 ## Materials
 
 * [Video](https://youtu.be/wVEqsIKkNQ8)

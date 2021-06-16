@@ -1,5 +1,7 @@
 # C02V05 - Terminal commands: Part 1
 
+We talk about terminal, commands & command arguments.
+
 ## Materials
 
 * [Video](https://youtu.be/cW2yiPirm7k)

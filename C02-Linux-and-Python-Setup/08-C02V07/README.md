@@ -1,5 +1,7 @@
 # C02V07 - Terminal commands: Part 3
 
+We talk about sdtdin / stdout / stderr.
+
 ## Materials
 
 * [Video](https://youtu.be/yY5iYsufebI)
