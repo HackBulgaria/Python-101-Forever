@@ -13,8 +13,8 @@ Follow this order:
 | 6     | C02V05 - Terminal commands: Part 1                      | [Click here](06-C02V05/) |
 | 7     | C02V06 - Terminal commands: Part 2                      | [Click here](07-C02V06/) |
 | 8     | C02V07 - Terminal commands: Part 3                      | [Click here](08-C02V07/) |
-| ?     | C02V?? - Terminal commands: Part 4                      | [Click here](09-C02V08/) |
-| ?     | C02V?? - Terminal commands: Part 5                      | *Coming soon*            |
+| 9     | C02V08 - Terminal commands: Part 4                      | [Click here](09-C02V08/) |
+| 10    | C02V09 - Terminal commands: Part 5                      | [Click here](10-C02V09/) |
 | ?     | C02V?? - Python virtual environments                    | *Coming soon*            |
 | ?     | C02V?? - Managing Python versions with pyenv            | *Coming soon*            |
 | ?     | C02V?? - Creating virtual environments for your projects| *Coming soon*            |
