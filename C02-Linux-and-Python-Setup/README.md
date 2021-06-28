@@ -17,8 +17,6 @@ Follow this order:
 | 10    | C02V09 - Terminal commands: Part 5                      | [Click here](10-C02V09/) |
 | 11    | C02V10 - Terminal commands: Part 6                      | [Click here](11-C02V10/) |
 | 12    | C02P02 - gson                                           | [Click here](12-C02P02/) |
-| ?     | C02V?? - Python virtual environments                    | *Coming soon*            |
-| ?     | C02V?? - Managing Python versions with pyenv            | *Coming soon*            |
-| ?     | C02V?? - Creating virtual environments for your projects| *Coming soon*            |
-| ?     | C02V?? - Additional sublime setup                       | *Coming soon*            |
-| ??    | C02V?? - Overview of the Python & Linux structure       | *Coming soon*            |
+| 13    | C02V11 - Python versions & pyenv                        | [Click here](13-C02V11/) |
+| ?     | C02V?? - Virtual environments                           | *Coming soon*            |
+| ?     | C02V?? - Sublime setup for Python on Ubuntu             | *Coming soon*            |
