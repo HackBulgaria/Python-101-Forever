@@ -85,7 +85,7 @@ Here are some more examples:
 
 ```
 $ python gson.py example.json "members[0].powers[1]"
-Heal Immunity
+Turning tiny
 ```
 
 ```
