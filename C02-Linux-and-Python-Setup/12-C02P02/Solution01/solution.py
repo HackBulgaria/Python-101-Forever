@@ -1,3 +1,6 @@
+# This is a raw solution, recorded during a Discord Live
+# Try improving it!
+
 import json
 
 
