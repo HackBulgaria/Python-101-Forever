@@ -19,4 +19,4 @@ Follow this order:
 | 12    | C02P02 - gson                                           | [Click here](12-C02P02/) |
 | 13    | C02V11 - Python versions & pyenv                        | [Click here](13-C02V11/) |
 | 14    | C02V12 - Virtual environments                           | [Click here](14-C02V12/) |
-| ?     | C02V?? - Sublime setup for Python on Ubuntu             | *Coming soon*            |
+| 15    | C02V13 - Python editors                                 | [Click here](15-C02V13/) |
