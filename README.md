@@ -20,7 +20,7 @@ Contact us at <team@hackbulgaria.com> for sponsorship opportunities.
 | 00 - Course Introduction              | [Click here](C00-Course-Introduction/)   |
 | 01 - Python Basics                    | [Click here](C01-Python-Basics/)         |
 | 02 - Linux & Python Setup             | [Click here](C02-Linux-and-Python-Setup/)|
-| 03 - Unit testing                     | *Coming soon*                            |
+| 03 - Unit testing                     | [Click here](C03-Unit-Testing/)          |
 | 04 - Algorithms and Data structures   | *Coming soon*                            |
 | 05 - Modules, namespaces & interfaces | *Coming soon*                            |
 | 06 - Expanding in Python, part 1      | *Coming soon*                            |
