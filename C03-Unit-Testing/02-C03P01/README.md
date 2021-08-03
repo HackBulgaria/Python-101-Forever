@@ -34,13 +34,13 @@ closed_interval.stringify() == "[1, 10]
 and
 
 ```python
-closed_interval = Interval(1, 10, start_opened=True, end_opened=True)
+opened_interval = Interval(1, 10, start_opened=True, end_opened=True)
 
-closed_interval.is_inside(1) is False
-closed_interval.is_inside(5) is True
-closed_interval.is_inside(10) is False
+opened_interval.is_inside(1) is False
+opened_interval.is_inside(5) is True
+opened_interval.is_inside(10) is False
 
-closed_interval.stringify() == "(1, 10)"
+opened_interval.stringify() == "(1, 10)"
 ```
 
 and
