@@ -11,3 +11,4 @@ Follow this order:
 | 4     | C03V03 - Unit tests                                     | [Click here](04-C03V03/) |
 | 5     | C03P02 - Interval extended, tests                       | [Click here](05-C03P02/) |
 | 6     | C03V04 - Context managers                               | [Click here](06-C03V04/) |
+| 7     | C03P03 - Exception silencing                            | [Click here](07-C03P03/) |
