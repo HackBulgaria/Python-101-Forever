@@ -12,3 +12,5 @@ Follow this order:
 | 5     | C03P02 - Interval extended, tests                       | [Click here](05-C03P02/) |
 | 6     | C03V04 - Context managers                               | [Click here](06-C03V04/) |
 | 7     | C03P03 - Exception silencing                            | [Click here](07-C03P03/) |
+| 8     | C03V05 - Exceptions, part 1                             | [Click here](08-C03V05/) |
+| 9     | C03V06 - Exceptions, part 2                             | [Click here](09-C03V06/) |
