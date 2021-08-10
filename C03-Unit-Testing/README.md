@@ -14,3 +14,4 @@ Follow this order:
 | 7     | C03P03 - Exception silencing                            | [Click here](07-C03P03/) |
 | 8     | C03V05 - Exceptions, part 1                             | [Click here](08-C03V05/) |
 | 9     | C03V06 - Exceptions, part 2                             | [Click here](09-C03V06/) |
+| 10    | C03V07 - Exceptions, part 3                             | [Click here](10-C03V07/) |
