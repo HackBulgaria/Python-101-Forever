@@ -24,7 +24,7 @@ class TemplateEngine:
 
 The class should behave as follows:
 
-```
+```python
 template = "Hello there, {{ x }}"
 engine = TemplateEngine(template)
 
