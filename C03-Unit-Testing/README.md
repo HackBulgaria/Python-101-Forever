@@ -16,3 +16,5 @@ Follow this order:
 | 9     | C03V06 - Exceptions, part 2                             | [Click here](09-C03V06/) |
 | 10    | C03V07 - Exceptions, part 3                             | [Click here](10-C03V07/) |
 | 11    | C03P04 - Fractions                                      | [Click here](11-C03P04/) |
+| 12    | C03V08 - Exceptions, part 4                             | *Coming soon*            |
+| 13    | C03P05 - Simple template engine                         | [Click here](13-C03P05/) |
