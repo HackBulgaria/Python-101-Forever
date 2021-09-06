@@ -38,6 +38,7 @@ print(variables)  # ["x"]
 **Few important things:**
 
 1. The engine should support multiline strings.
+1. All of those are valid: `{{x}}`, `{{ x}}`, `{{ x }}`, `{{         x}}`, etc. You can have arbitrary whitespace between `{{`, the variable name and `}}`.
 1. One variable can occur in multiple places in the template.
 1. Behavior of the `render` method is described in the docstring.
 1. In order to show that your implementation is working as expected, **cover the `TemplateEngine` implementation with tests**, placed in `template_tests.py`
