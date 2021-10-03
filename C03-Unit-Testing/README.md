@@ -17,4 +17,10 @@ Follow this order:
 | 10    | C03V07 - Exceptions, part 3                             | [Click here](10-C03V07/) |
 | 11    | C03P04 - Fractions                                      | [Click here](11-C03P04/) |
 | 12    | C03V08 - Exceptions, part 4                             | *Coming soon*            |
-| 13    | C03P05 - Simple template engine                         | [Click here](13-C03P05/) |
+| 13    | C03V09 - Testing exceptions                             | *Coming soon*            |
+| 14    | C03P05 - Simple template engine                         | [Click here](13-C03P05/) |
+| 15    | C03V10 - Debugging in Python                            | *Coming soon*            |
+| 16    | C03V11 - Debugging with print                           | *Coming soon*            |
+| 17    | C03V12 - Debugging with pdb                             | *Coming soon*            |
+| 18    | C03V13 - Debugging with ipdb                            | *Coming soon*            |
+| 19    | C03V14 - Debugging with breakpoint                      | *Coming soon*            |
