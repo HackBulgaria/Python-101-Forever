@@ -24,3 +24,4 @@ Follow this order:
 | 17    | C03V12 - Debugging with pdb                             | *Coming soon*            |
 | 18    | C03V13 - Debugging with ipdb                            | *Coming soon*            |
 | 19    | C03V14 - Debugging with breakpoint                      | *Coming soon*            |
+| 20    | C03P06 - Conway's Game of Life                          | *Coming soon*            |
