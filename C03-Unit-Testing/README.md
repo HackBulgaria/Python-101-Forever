@@ -25,3 +25,6 @@ Follow this order:
 | 18    | C03V13 - Debugging with ipdb                            | [Click here](18-C03V13/) |
 | 19    | C03V14 - Debugging with breakpoint                      | [Click here](19-C03V14/) |
 | 20    | C03P06 - Conway's Game of Life                          | [Click here](20-C03P06/) |
+| 21    | C03V15 - Python modules, part 1                         | [Click here](21-C03V15/) |
+| 22    | C03V16 - Python modules, part 2                         | [Click here](22-C03V16/) |
+| 23    | C03V17 - Python modules, part 3                         | [Click here](23-C03V17/) |
