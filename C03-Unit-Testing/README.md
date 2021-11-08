@@ -28,3 +28,5 @@ Follow this order:
 | 21    | C03V15 - Python modules, part 1                         | [Click here](21-C03V15/) |
 | 22    | C03V16 - Python modules, part 2                         | [Click here](22-C03V16/) |
 | 23    | C03V17 - Python modules, part 3                         | [Click here](23-C03V17/) |
+| 24    | C03V18 - Python packages, part 1                        | [Click here](24-C03V18/) |
+| 25    | C03V19 - Python packages, part 2                        | [Click here](25-C03V19/) |
