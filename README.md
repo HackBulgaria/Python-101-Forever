@@ -8,7 +8,7 @@ Official [Python 101 Forever](https://hackbulgaria.com/python-101-forever) GitHu
 
 ## Sponsors
 
-| [![HackSoft](https://www.hacksoft.io/_next/image?url=%2Fhacksoft.svg&w=256&q=75)](https://hacksoft.io) |
+| [![HackSoft](https://www.hacksoft.io/hacksoft.svg)](https://hacksoft.io) |
 |------------------------------------------------------------------------------------------------------------------------|
 
 Contact us at <team@hackbulgaria.com> for sponsorship opportunities.
